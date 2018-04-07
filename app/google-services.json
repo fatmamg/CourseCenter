@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "744621424406",
+    "firebase_url": "https://coursecenterworkshop.firebaseio.com",
+    "project_id": "coursecenterworkshop",
+    "storage_bucket": "coursecenterworkshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744621424406:android:fd23e258cefa5459",
+        "android_client_info": {
+          "package_name": "com.example.neo.coursecenterworkshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744621424406-vmkmnepc3luo61cq8o021pf1r7mg4902.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.neo.coursecenterworkshop",
+            "certificate_hash": "efe095b9c43684f86df30b8c3743d871b55fd234"
+          }
+        },
+        {
+          "client_id": "744621424406-fmf0q8unu26u3n409i38jpb9is5838i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRNi8MnVPHvBV-g7IUDJjQFvroNwQ8Rcc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744621424406-fmf0q8unu26u3n409i38jpb9is5838i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
